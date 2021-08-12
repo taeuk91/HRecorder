@@ -1,0 +1,183 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1083; Version 2009; 64bit' Language: 'ko' Physical Memory: 16313 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Unity/0. Projects/HRecorder
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64724
+Successfully changed project path to: C:/Unity/0. Projects/HRecorder
+C:/Unity/0. Projects/HRecorder
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity/0. Projects/HRecorder/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   NVIDIA
+    VRAM:     5991 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005721 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.313 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1420 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.1 MB.
+System memory in use after: 72.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1874.
+Total: 1.591100 ms (FindLiveObjects: 0.122200 ms CreateObjectMapping: 0.031700 ms MarkObjects: 1.390100 ms  DeleteObjects: 0.046300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/HenryDolly/Scenes
+  artifactKey: Guid(dc5a837b38cb48a4bac3bc64eeeb817f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Scenes using Guid(dc5a837b38cb48a4bac3bc64eeeb817f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7618c2cc58ccb3c7eb76d1301010cd') in 0.010028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/HenryDolly/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cffae48045ec41230d12e68e7dafe708') in 0.013966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.387722 seconds.
+  path: Assets/HenryDolly/Images/BG.png
+  artifactKey: Guid(1e6ab5304523d494da571b304b6e3d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Images/BG.png using Guid(1e6ab5304523d494da571b304b6e3d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682f239ca5f26528b164e7d37086bf82') in 0.129257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004504 seconds.
+  path: Assets/HenryDolly/Scripts/TargetMove.cs
+  artifactKey: Guid(e30401a4c1576124786009fee65f9db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Scripts/TargetMove.cs using Guid(e30401a4c1576124786009fee65f9db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9a53a2067d23a5eb315a82f324f194') in 0.022067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004033 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_MoveToPos1.signal
+  artifactKey: Guid(294c59fcf613bab48b29ea086b67a5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_MoveToPos1.signal using Guid(294c59fcf613bab48b29ea086b67a5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9b1f52faf114dc03a1bf44967e99ee') in 0.012578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003851 seconds.
+  path: Assets/HenryDolly/Scripts
+  artifactKey: Guid(3f61ca03800bdd340bbfcc6b0bfde1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Scripts using Guid(3f61ca03800bdd340bbfcc6b0bfde1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391faf6edbffa97bd7b95098c8ab90e1') in 0.008131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004398 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_Narration1.signal
+  artifactKey: Guid(34ede3b2633377f4f96beef9dbe17156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_Narration1.signal using Guid(34ede3b2633377f4f96beef9dbe17156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d436b2feb1bebe031358cbcdd87eb1c') in 0.008842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005100 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_Narration2.signal
+  artifactKey: Guid(e7a54c7732d91b541905dd29eda2b1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_Narration2.signal using Guid(e7a54c7732d91b541905dd29eda2b1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67fd5ea7f750b0a83f0550dd0f0ef6aa') in 0.008352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004792 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_MoveToPos.signal
+  artifactKey: Guid(5f95430c9d5e9c64b823e8dd37837973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_MoveToPos.signal using Guid(5f95430c9d5e9c64b823e8dd37837973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2103dc1a6cbe3cb903f46b54d0809a26') in 0.007977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006603 seconds.
+  path: Assets/HenryDolly/Cinemachine
+  artifactKey: Guid(46d09115d50743444b19f935202a6351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine using Guid(46d09115d50743444b19f935202a6351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70f4d12828c97574f585438a48d97dd') in 0.007010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004566 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_Narration3.signal
+  artifactKey: Guid(e00bf26d9d49b384d9070d698f945347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_Narration3.signal using Guid(e00bf26d9d49b384d9070d698f945347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94d5f8e1c44018f3dd21fcd2ac22356') in 0.007702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004150 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_Narration4.signal
+  artifactKey: Guid(ca069304d34c0844785cb5c43bcb7ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_Narration4.signal using Guid(ca069304d34c0844785cb5c43bcb7ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918ac0609cc93bf189541f59258ee14b') in 0.007337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002854 seconds.
+  path: Assets/HenryDolly/Prefabs
+  artifactKey: Guid(24041a2c886f7cd4384116974403e31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Prefabs using Guid(24041a2c886f7cd4384116974403e31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827926042a1e3b2b113e88484d355ae9') in 0.006371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004028 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_MoveToPos2.signal
+  artifactKey: Guid(daa47c3e45417ed459c14a6469b8f209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_MoveToPos2.signal using Guid(daa47c3e45417ed459c14a6469b8f209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f535b12f6cc4d5be5416d0cf754353f') in 0.006874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003709 seconds.
+  path: Assets/HenryDolly/Cinemachine/Timeline.playable
+  artifactKey: Guid(55f72a5ef85565545af617d202d796fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Timeline.playable using Guid(55f72a5ef85565545af617d202d796fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71c760593f96b194ff9dc014dd6c6ec') in 0.021707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002878 seconds.
+  path: Assets/HenryDolly/Images
+  artifactKey: Guid(8bbeee1e52966f94898ccfb696bdbddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Images using Guid(8bbeee1e52966f94898ccfb696bdbddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfecb815fa05c7cee7a529f1fa744235') in 0.005361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002965 seconds.
+  path: Assets/HenryDolly
+  artifactKey: Guid(b0bfaad95e3eb5945ad3442c11e37088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly using Guid(b0bfaad95e3eb5945ad3442c11e37088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fa366705cf3e8e71e37f89f04e552a') in 0.005969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003685 seconds.
+  path: Assets/HenryDolly/Cinemachine/Signal_MoveToOriginPos.signal
+  artifactKey: Guid(56da3457806c5ab4a90120f54509c20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Cinemachine/Signal_MoveToOriginPos.signal using Guid(56da3457806c5ab4a90120f54509c20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fa92a25715ddc2222e81954a089672') in 0.006926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003664 seconds.
+  path: Assets/HenryDolly/Prefabs/HenryDolly.prefab
+  artifactKey: Guid(0b6ec3204752d714c9a12dc81fe07dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HenryDolly/Prefabs/HenryDolly.prefab using Guid(0b6ec3204752d714c9a12dc81fe07dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a1983279408852c82d259814d9143a') in 0.080282 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
